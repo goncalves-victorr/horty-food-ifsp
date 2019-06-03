@@ -7,5 +7,3 @@
 [miguel7531](https://github.com/miguel7531)
 
 [batata1304](https://github.com/batata1304)
-
-[RafaprimoLoko](https://github.com/RafaprimoLoko)

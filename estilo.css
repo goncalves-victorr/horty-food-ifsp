@@ -178,10 +178,18 @@ ul.noticias li p a{
 	padding: 8% 13% 13% 46%;
 	color: #315e8a;
 }
+.espaco-vazio{
+	padding: 0% 18% 0% 18%;
+}
 .cadastro{
-    padding: 28% 29% 50% 35%;
-    padding-right: 100px;
+	/*padding:  0% 0% 7% 36%;*/
+    padding: 2% 0% 0% 2%;
+	padding-right: 100px;
+	font-size: x-large;
 }
 .entrada{
-	padding: 0% 0% 0% 10%;
+	padding: 0% 2% 9% 0% 9%;
+	font-size: x-large;
 }
+/*https://www.iconfinder.com/search/?q=lock&price=free*/
+/*https://www.iconfinder.com/*/

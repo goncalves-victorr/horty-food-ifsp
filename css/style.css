@@ -1,0 +1,16 @@
+.lado{
+    width: 30%;
+    background: skyblue;
+    padding: 6% 0% 38% 0%;
+}
+body{
+    width: 100%;
+    left: auto;
+    background: thistle;
+}
+.ft1{
+    padding: 7% 28% 7% 28%;
+}
+.escrita{
+    padding: 1% 1% 1% 1%
+}

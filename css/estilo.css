@@ -6,7 +6,6 @@ body{
 	color: black;
 }
 a:link, a:active, a:visited{
-	color: #315e8a;
 	text-decoration: none;
 } 
 a:hover{
@@ -183,13 +182,28 @@ ul.noticias li p a{
 }
 .cadastro{
 	/*padding:  0% 0% 7% 36%;*/
-    padding: 2% 0% 0% 2%;
-	padding-right: 100px;
+    padding: 2% 3% 1% 2%;
 	font-size: x-large;
 }
 .entrada{
-	padding: 0% 2% 9% 0% 9%;
+	padding: 2% 3% 1% 2%;
 	font-size: x-large;
+}
+.colunal{
+    color: white;
+}
+.cola{
+	width: 540px;
+}
+.contatos label{
+    color:black;
+}
+.contatos input{
+    color:black;
+	display: block;
+	margin-bottom: 15px;
+	padding: 5px 2%;
+	width: 96%
 }
 /*https://www.iconfinder.com/search/?q=lock&price=free*/
 /*https://www.iconfinder.com/*/

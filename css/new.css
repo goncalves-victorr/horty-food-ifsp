@@ -1,0 +1,113 @@
+.int{
+    /* position: static; */
+    width: 58.8%;
+    height: 21.65%;
+    left: 52%;
+    top: 29.2%;
+    background: #002dd8;
+    border-style: none;
+    border-radius: 36px;
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 49px;
+    text-align: center;
+    color: white;
+    padding: 2% 11% 2% 8%;
+}
+.fort{
+    position: static;
+    width: 52.8%;
+    height: 3.65%;
+    left: 29%;
+    top: 23.2%;
+    background: #002dd8;
+    border-style: none;
+    border-radius: 36px;
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 25px;
+    text-align: center;
+    color: white;
+    padding: 2% 11% 2% 9%;
+}
+.bic{ 
+    /* position: static; */
+    width: 58.8%;
+    height: 21.65%;
+    left: 52%;
+    top: 29.2%;
+    background: #002dd8;
+    border-style: none;
+    border-radius: 36px;
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 49px;
+    text-align: center;
+    color: white;
+    padding: 2% 11% 2% 8%;
+}
+.pio{
+    position: static;
+    width: 52.8%;
+    height: 3.65%;
+    left: 29%;
+    top: 23.2%;
+    background: #002dd8;
+    border-style: none;
+    border-radius: 36px;
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 25px;
+    text-align: center;
+    color: white;
+    padding: 2% 11% 2% 9%;
+}
+.lic{
+    padding: 0% 0% 6% 22%;
+}
+.CC{
+    padding: 3% 33% 7% 34%; 
+    color: black;
+}
+.ioio{
+    position: static;
+    width: 52.8%;
+    height: 3.65%;
+    left: 29%;
+    top: 23.2%;
+    background: #002dd8;
+    border-style: none;
+    border-radius: 36px;
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 25px;
+    text-align: center;
+    color: white;
+}
+.lala{
+    /* position: static; */
+    width: 58.8%;
+    height: 21.65%;
+    left: 52%;
+    top: 29.2%;
+    background: #002dd8;
+    border-style: none;
+    border-radius: 36px;
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 49px;
+    text-align: center;
+    color: white;
+}
